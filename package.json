@@ -1,0 +1,17 @@
+{
+  "name": "zillowexcel",
+  "version": "1.0.0",
+  "description": "Saves zillow listings to Excel using the Command Line",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "George Parks",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "enquirer": "^2.3.6",
+    "exceljs": "^4.1.1",
+    "jsdom": "^16.3.0"
+  }
+}
